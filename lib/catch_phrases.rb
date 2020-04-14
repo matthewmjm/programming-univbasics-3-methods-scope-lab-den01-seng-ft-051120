@@ -19,3 +19,7 @@ end
  #toadstool
  #link
 #end
+
+def all_phrases(m)
+ p 
+end
