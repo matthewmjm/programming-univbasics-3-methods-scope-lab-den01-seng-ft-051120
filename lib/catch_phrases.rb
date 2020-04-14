@@ -21,5 +21,5 @@ end
 #end
 
 def all_phrases(m)
- p 
+ m 
 end
