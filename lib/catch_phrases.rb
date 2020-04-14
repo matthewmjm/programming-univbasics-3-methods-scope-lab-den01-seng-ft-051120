@@ -24,3 +24,6 @@ end
   #else
 #end
 
+def all_phrases
+  
+end
