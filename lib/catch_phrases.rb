@@ -21,8 +21,10 @@ end
 #end
 
 def all_phrases(the_method)
- if the_method == mario
-   puts "It's-a me, Mario!"
-  
+  if the_method == mario
+    puts "It's-a me, Mario!"
+  elsif the_method == toadstool
+    puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  else
    
 end
