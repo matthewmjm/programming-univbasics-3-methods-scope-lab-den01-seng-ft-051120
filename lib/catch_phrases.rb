@@ -25,6 +25,7 @@ def all_phrases(the_method)
     puts "It's-a me, Mario!"
   elsif the_method == toadstool
     puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  elsif the_method == link
+    puts "It's Dangerous To Go Alone! Take This."
   else
-   
 end
