@@ -24,5 +24,5 @@ end
 #end
 
 def all_phrases(meth1)
-  mario
+  meth1
 end
