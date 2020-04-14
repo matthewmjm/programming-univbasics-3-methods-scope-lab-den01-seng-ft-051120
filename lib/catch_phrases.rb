@@ -20,6 +20,6 @@ end
  #link
 #end
 
-def all_phrases(m)
- m 
+def all_phrases(the_method)
+ puts phrase.the_method
 end
