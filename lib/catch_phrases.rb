@@ -22,5 +22,7 @@ end
 
 def all_phrases(the_method)
  if the_method == mario
-   puts
+   puts "It's-a me, Mario!"
+  
+   
 end
