@@ -14,12 +14,15 @@ def link
   puts phrase
 end
 
-def all_phrases(the_method)
-  if the_method == "mario"
-    puts "It's-a me, Mario!"
-  elsif the_method == "toadstool"
+#def all_phrases(the_method)
+  #if the_method == "mario"
+    #puts "It's-a me, Mario!"
+  #elsif the_method == "toadstool"
     #puts 'Thank You Mario! But Our Princess Is In Another Castle!'
-  else
-    puts "It's Dangerous To Go Alone! Take This."
-end
+  #else
+    #puts "It's Dangerous To Go Alone! Take This."
+#end
 
+def all_phrases
+
+end
