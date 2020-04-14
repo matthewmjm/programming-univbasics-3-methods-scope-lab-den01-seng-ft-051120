@@ -23,6 +23,6 @@ end
     #puts "It's Dangerous To Go Alone! Take This."
 #end
 
-def all_phrases(meth1)
-  meth1
+def all_phrases
+  toadstool
 end
