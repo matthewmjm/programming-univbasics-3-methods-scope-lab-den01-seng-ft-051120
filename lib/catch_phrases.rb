@@ -24,5 +24,5 @@ end
 #end
 
 def all_phrases(meth1)
-  .meth1
+  meth1
 end
