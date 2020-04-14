@@ -21,5 +21,5 @@ end
 #end
 
 def all_phrases(the_method)
- puts phrase.the_method
+ if (the_method == mario)
 end
