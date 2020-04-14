@@ -14,12 +14,6 @@ def link
   puts phrase
 end
 
-#def all_phrases
- #mario
- #toadstool
- #link
-#end
-
 def all_phrases(the_method)
   if the_method == mario
     puts "It's-a me, Mario!"
